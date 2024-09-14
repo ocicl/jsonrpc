@@ -4,6 +4,6 @@ JSON-RPC 2.0 server/client for Common Lisp.
 
 |---------+------------------------------------------|
 | source  | git:https://github.com/cxxxr/jsonrpc.git |
-| commit  | 71558b1                                  |
+| commit  | 4abbd30                                  |
 | systems | jsonrpc                                  |
 |---------+------------------------------------------|
