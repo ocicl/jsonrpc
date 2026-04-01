@@ -7,3 +7,4 @@ JSON-RPC 2.0 server/client for Common Lisp.
 | commit  | 42fa96e                                  |
 | systems | jsonrpc                                  |
 |---------+------------------------------------------|
+ 
